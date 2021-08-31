@@ -135,8 +135,8 @@
 	<bean id="task03" class="acme.entities.tasks.Task">
 		<property name="title" value="Customize your webpage"/>
 		<property name="description" value="Try some cool stuff"/>
-		<property name="startExecution" value="2021/07/03 12:33"/>
-		<property name="endExecution" value="2022/02/11 10:46"/>
+		<property name="startExecution" value="2022/07/03 12:33"/>
+		<property name="endExecution" value="2023/02/11 10:46"/>
 		<property name="workload" value="98.59"/>
 		<property name="info" value="http://www.example.org"/>
 		<property name="userAccount"> <ref bean="administratorUserAccount"/></property>
@@ -147,8 +147,8 @@
 	<bean id="task08" class="acme.entities.tasks.Task">
 		<property name="title" value="Test1"/>
 		<property name="description" value="Another test"/>
-		<property name="startExecution" value="2021/07/05 15:33"/>
-		<property name="endExecution" value="2022/01/11 09:46"/>
+		<property name="startExecution" value="2022/07/05 15:33"/>
+		<property name="endExecution" value="2022/08/11 09:46"/>
 		<property name="workload" value="80.59"/>
 		<property name="info" value="http://www.example.org"/>
 		<property name="userAccount"> <ref bean="administratorUserAccount"/></property>
@@ -159,8 +159,8 @@
 	<bean id="task09" class="acme.entities.tasks.Task">
 		<property name="title" value="Test2"/>
 		<property name="description" value="Another test"/>
-		<property name="startExecution" value="2021/07/18 16:33"/>
-		<property name="endExecution" value="2022/02/15 08:46"/>
+		<property name="startExecution" value="2022/07/18 16:33"/>
+		<property name="endExecution" value="2023/02/15 08:46"/>
 		<property name="workload" value="89.59"/>
 		<property name="info" value="http://www.example.org"/>
 		<property name="userAccount"> <ref bean="administratorUserAccount"/></property>
