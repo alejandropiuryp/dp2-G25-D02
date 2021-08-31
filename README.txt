@@ -10,6 +10,6 @@
 
 Version 2.0.0 
 
-https://github.com/JJosePP/dp2-G32-Performance-testing
+https://github.com/alejandropiuryp/dp2-G25-D02.git
 
 This is Acme Planner, a project in D&T.
