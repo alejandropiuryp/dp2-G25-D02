@@ -10,12 +10,12 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #c7e4b2 
+master.banner.background = #96abc0 
 
 # master.welcome ##############################################################
 
 master.welcome.title = Welcome!
-master.welcome.text = Welcome to Acme Planner!
+master.welcome.text = Welcome to Acme Work Plans!
 
 # master.menu #################################################################
 
@@ -90,10 +90,10 @@ master.footer.label.spanish = Spanish
 
 master.company.title = The company
 master.company.text = \
-	Acme Planner, Inc. is a fictitious fictitious company that provides a \
+	Acme Work Plans, Inc. is a fictitious fictitious company that provides a \
 	starter project for the students of the Design and Testing subject of the \
 	Software Engineering Curriculum of the University of Sevilla.
-master.company.name = Acme Planner, Inc.
+master.company.name = Acme Work Plans, Inc.
 master.company.address = s/n Av. Reina Mercedes , Sevilla, Sevilla, Spain
 master.company.phone = +34 951 346 337
 master.company.email = contact@acme_plan.com
