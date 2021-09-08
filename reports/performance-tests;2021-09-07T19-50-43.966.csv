@@ -1,0 +1,5 @@
+timestamp,test-class,test-method,time,description,result
+2021-09-07 19:51:14.34,acme.testing.anonymous.AnonymousShoutListTest,listAll,1740,"[1] recordIndex=0, author=Elena, text=Tengo sueño",Expected value 'Elena' in attribute 1 of record 0, but found 'John Doe'
+2021-09-07 19:51:15.928,acme.testing.anonymous.AnonymousShoutListTest,listAll,1124,"[2] recordIndex=1, author=John Doe, text=I'm happy!",Expected value 'John Doe' in attribute 1 of record 1, but found 'Juan Doe'
+2021-09-07 19:51:17.769,acme.testing.anonymous.AnonymousShoutListTest,listAll,1206,"[3] recordIndex=2, author=Juan Doe, text=Estoy feliz!",Expected value 'Juan Doe' in attribute 1 of record 2, but found 'John Doe Again'
+2021-09-07 19:51:19.332,acme.testing.anonymous.AnonymousShoutListTest,listAll,1201,"[4] recordIndex=3, author=John Doe Again, text=I'm still happy!",Expected value 'John Doe Again' in attribute 1 of record 3, but found 'I am not John Doe'
