@@ -12,9 +12,9 @@ Version 2.0.0
 
 https://github.com/alejandropiuryp/dp2-G25-D02.git
 
-Release v1.0.0
+Release v1.0.1
 
-https://github.com/alejandropiuryp/dp2-G25-D02/releases/tag/v1.0.0
+https://github.com/alejandropiuryp/dp2-G25-D02/releases/tag/v1.0.1
 
 This is Acme Work Plans, a project in D&T.
 
